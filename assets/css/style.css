@@ -179,30 +179,7 @@ a:hover{
     text-decoration: none;
 
 }
-/*
-a.btn {
-    display: inline-block;
-    /*color: #ffffff;*//*
-    padding: 11px 18px;
-    margin-bottom: 7px;
-    margin-right: 5px;
-    font-size: 15px;
-    font-weight: 900;
-    letter-spacing: 1px;
-    vertical-align: middle;
-    white-space: pre-line;
-    text-align: center;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-    cursor: pointer;
-    -webkit-transition: all 0.3s ease-out;
-    -moz-transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
-    -o-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-}
-*/
+
 .btn, .btn-large, .btn-flat{
     text-transform: lowercase !important;
 }
@@ -483,6 +460,7 @@ ul .devicon-html5-plain {
 .main_service_content .single_service_area{
     overflow: hidden;
 }
+
 .main_service_content img{
     width:80%;
 }
@@ -490,11 +468,12 @@ ul .devicon-html5-plain {
 .main_service_content .single_service a{
   font-size: 16px;
   font-weight: 500;
+  color:
 }
 
 .main_service_content .single_service h2{
     font-weight: 700;
-    color: #fff;
+    color: ;
 }
 .single_service.single_service_left_text{
     margin-left:;
